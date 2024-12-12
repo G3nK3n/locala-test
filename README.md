@@ -4,7 +4,7 @@ My attempt on building an interactive map application with Mapbox, web workers, 
 
 Instructions
 - Initialize the project:
-  - ✅ Successfully added Mapbox to your project and centered the map on Paris.
+  - ✅ Successfully added Mapbox to the project and centered the map on Paris.
 - Display the map:
   - ✅ Displayed points using the provided GeoJSON data (Currently in comment for now).
 - Interaction:
